@@ -1,3 +1,7 @@
+# fork from version 2.0.0
+
+Based on https://github.com/AlexBacich/sticky-headers-table/pull/35
+
 # table_sticky_headers
 
 This package for [Flutter](https://flutter.io) allows you to display two-dimension table with both sticky headers.
